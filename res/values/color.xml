@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!-- commen begin -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="red">#FF0000</color>
+    <color name="gold">#FFD700</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="purple">#800080</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="orange">#FFA500</color>
+    <color name="lemonyellow">#FFFACD</color>
+    <color name="graywhite">#F5F5F5</color>
+    <color name="grayslate">#708090</color>
+    <color name="lightblue">#0083FF</color>
+    <color name="transparent">#00000000</color>
+    <!-- commen begin -->
+	
+	<!-- 模块的主题色  begin-->
+	<color name="theme_homepage">#ffffff</color>
+	<color name="theme_lifearound">#ff5b54</color>
+	<color name="theme_smarthome">#26a3a9</color>
+	<color name="theme_shopping">#06bbf0</color>
+	
+	<color name="album_color">#1e75bb</color>
+	<color name="use_guide_color">#75ba45</color>
+	<!-- 模块的主题色  end-->
+	
+	<!-- 公共颜色 begin -->
+	<color name="common_detail_content">#9d9d9d</color>
+	<!-- 公共颜色 end -->
+	
+	
+	<!-- lifearoud icon begin -->	
+	<color name="lifearound_coupon">#f9989f</color>
+	<color name="lifearound_dining">#70cbb5</color>
+	<color name="lifearound_shopping">#fdbf57</color>
+	<color name="lifearound_entertainment">#a0c0ee</color>
+	<color name="lifearound_supermarket">#feb089</color>
+	<color name="lifearound_education">#43b1cb</color>
+	<color name="lifearound_traffic">#fcc669</color>
+	<color name="lifearound_hospital">#de799b</color>
+	<color name="lifearound_more">#add855</color>
+	<!-- lifearoud icon end -->	
+	
+	<!-- activity BaseActivity begin -->
+	<color name="base_activity_bg">#fbf7ec</color>
+	<!-- activity BaseActivity end -->
+	
+	<!-- view ListView begin-->
+	<color name="listview_color1">#598c01</color>
+	<!-- view ListView end-->
+	<!-- view content begin-->
+	<color name="content_color">#cce6ff</color>
+	<!-- view content end-->
+	
+	
+
+</resources>

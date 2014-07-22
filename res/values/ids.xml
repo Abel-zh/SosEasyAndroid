@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- StaggeredGridView 使用的id begin -->
+    <item name="staggered_gridview" type="id">false</item>
+    <!-- StaggeredGridView 使用的id begin -->
+    
+</resources>

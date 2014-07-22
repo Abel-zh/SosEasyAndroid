@@ -1,0 +1,23 @@
+<resources>
+	
+    <!-- common size begin-->
+    
+    <!-- 特大 px大 px中 px其他 px -->
+    <!--xhdpi 18sp 16sp 14sp 12sp -->
+    
+    <dimen name="font_a">22sp</dimen>
+    <dimen name="font_b">20sp</dimen>
+    <dimen name="font_c">16sp</dimen>
+    <dimen name="font_d">12sp</dimen>
+    
+    <dimen name="fontsize_28">28sp</dimen>
+    <dimen name="fontsize_24">24sp</dimen>
+    <!-- common size end-->
+    
+    <!-- 压缩图片的大小 begin -->
+    <dimen name="thumb_image_with">195dp</dimen>
+    <dimen name="thumb_image_height">240dp</dimen>
+    <!-- 压缩图片的大小 end -->
+    
+	
+</resources>

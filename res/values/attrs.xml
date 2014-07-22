@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SearchView">
+        <attr name="hint" format="string" />
+    </declare-styleable>
+    
+    <declare-styleable name="StaggeredGridView">
+        <attr name="drawSelectorOnTop" format="boolean" />
+        <attr name="numColumns" format="integer" />
+        <attr name="itemMargin" format="dimension" />
+    </declare-styleable>
+    
+    <declare-styleable name="SmartHomeElectricLightView">
+        <attr name="text" format="string" />
+    </declare-styleable>
+	
+    <declare-styleable name="Gallery">
+        <attr name="android:galleryItemBackground" />
+    </declare-styleable>
+    
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+	
+    <!-- common size begin-->
+    <dimen name="titlebar_font_size">22sp</dimen>
+    <dimen name="common_size">12sp</dimen>
+    <dimen name="title_size">22sp</dimen>
+    
+    <!-- common size end-->
+    
+    <!-- HomePageActivity icons begin -->
+    <dimen name="homepage_text_size1">10sp</dimen>
+	<dimen name="search_size">15sp</dimen>
+    <!-- HomePageActivity icons end -->
+	
+	<!-- common list begin -->
+	<dimen name="commonlist_size1">15sp</dimen>
+	<dimen name="commonlist_size2">15sp</dimen>
+	<!-- common list end -->
+	
+	
+	
+</resources>

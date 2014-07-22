@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">微店</string>
+	
+     <!-- dialog begin -->
+    <string name="dialog_tip">提示</string>
+    <string name="dialog_confirm">确定</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_exit">退出</string>
+    <string name="dialog_app_exit_tip">退出程序？</string>
+    
+    <string name="dialog_network_error_alert_title">网络</string>
+    <string name="dialog_network_error_alert_content">网络连接错误</string>
+    <!-- dialog end -->
+    
+</resources>

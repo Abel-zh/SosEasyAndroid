@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Ea_AppTheme" parent="android:Theme.NoTitleBar">
+        <!-- <item name="android:">true</item> -->
+    </style>
+
+    <!-- <<<<<<<<<<<<<<<<<<<<<< base view common style begin <<<<<<<<<<<<<<<< -->
+    <style name="TextView_Common">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">@dimen/font_c</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="EditText_Common" parent="TextView_Common"></style>
+
+    <style name="Button_Common">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="ImageView_Common">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+
+    <style name="ListView_Common">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:cacheColorHint">@color/transparent</item>
+        <item name="android:scrollbars">none</item>
+        <item name="android:fastScrollEnabled">true</item>
+        <item name="android:fadingEdge">vertical</item>
+        <item name="android:choiceMode">singleChoice</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="android:divider">@color/listview_color1</item>
+    </style>
+
+    <style name="GridView_Common">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:numColumns">3</item>
+        <item name="android:verticalSpacing">5dp</item>
+        <item name="android:horizontalSpacing">5dp</item>
+        <item name="android:stretchMode">columnWidth</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- >>>>>>>>>>>>>>>>>>>>>>>>>>> base view common style begin >>>>>>>>>>>>>>>>>> -->
+
+
+    <!-- <<<<<<<<<<<<<<<<<<<<<< custom view style begin <<<<<<<<<<<<<<<< -->
+
+
+    <!-- titlebar style  begin -->
+    <style name="titlebar_textview" parent="TextView_Common">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textSize">@dimen/font_b</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="titlebar_imageview" parent="ImageView_Common">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+    <!-- >>>>>>>>>>>>>>>>>>>>>>>>>>> custom view style end >>>>>>>>>>>>>>>>>> -->
+
+</resources>
